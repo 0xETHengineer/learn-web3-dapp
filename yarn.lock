@@ -2339,10 +2339,10 @@
     typescript "^4.3.2"
     yargs "^17.0.1"
 
-"@orca-so/sdk@^1.2.22":
-  version "1.2.24"
-  resolved "https://registry.yarnpkg.com/@orca-so/sdk/-/sdk-1.2.24.tgz#9d7447653cb71d3d09e0d2ac0ed6332fb0d9aaee"
-  integrity sha512-jsXVHs+6TlQedtOA4ZmwCmi9U8WluO+4kMHQXEamrFY85a23lIZBWnIKDYV4dMi25TvuZddJZnWEA6ZvGKdgxg==
+"@orca-so/sdk@^1.2.26":
+  version "1.2.26"
+  resolved "https://registry.yarnpkg.com/@orca-so/sdk/-/sdk-1.2.26.tgz#891a72dee8257091bc5f1280e0989a6c42cc89f8"
+  integrity sha512-SnPqzUW5fGNFzDm1Ho09R07eCBHv50idXYjvCYdZzOUFdIO9M3dvpw69sT1OugDy2bETseiUSnVuUXEBpHHhGg==
   dependencies:
     "@orca-so/aquafarm" "^0.0.12"
     "@orca-so/stablecurve" "^1.0.5"
